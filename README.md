@@ -1,3 +1,34 @@
+Creating a mock real estate app.
+Pref to use docker for environment.
+Dependencies list:
+React
+Chakra UI
+Emotion
+Axios
+Framer Motion
+Millify
+Babel
+Node.js
+Vercel
+
+
+Need login/sign up page.
+Need search page [Buy, Sell, Rent, Year Built, Location]
+Search page should have:
+- list view with map view
+- Filters [Price, Property Type, Bed, Baths, Size]
+Need 
+
+Need sample images for real estate.
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
